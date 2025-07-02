@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    API_URL: 'http://localhost:3334',
-    STRATUM_URL: 'localhost:3333'
+    API_URL: 'http://192.168.8.231:3334',
+    STRATUM_URL: '192.168.8.231:3333'
 };
